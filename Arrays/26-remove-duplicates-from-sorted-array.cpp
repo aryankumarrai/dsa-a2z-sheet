@@ -1,3 +1,13 @@
+/*
+Problem: Remove Duplicates from Sorted Array
+Reference: https://leetcode.com/problems/remove-duplicates-from-sorted-array
+Difficulty: Easy
+
+
+Time Complexity: O(n)
+Space Complexity: O(1)
+*/
+
 #include <bits/stdc++.h>
 
 using namespace std;
