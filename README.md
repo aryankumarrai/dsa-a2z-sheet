@@ -39,7 +39,7 @@ Solving [Striver's A2Z DSA Sheet](https://takeuforward.org/dsa/strivers-a2z-shee
 | 2 | 13-07-2026| Remove Duplicates from Sorted | Array | Easy |https://leetcode.com/problems/remove-duplicates-from-sorted-array |
 | 3 | 14-07-2026| Rotate Array | Array | Medium |https://leetcode.com/problems/rotate-array |
 | 4 | 15-07-2026| Move Zeroes | Array | Easy |https://leetcode.com/problems/move-zeroes |
-| 5 | 16-07-2026| Single Element in a Sorted Array | Array | Medium |hhttps://leetcode.com/problems/single-element-in-a-sorted-array |
+| 5 | 16-07-2026| Single Element in a Sorted Array | Array | Medium |https://leetcode.com/problems/single-element-in-a-sorted-array |
 
 
 ---
