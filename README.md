@@ -11,7 +11,7 @@ Solving [Striver's A2Z DSA Sheet](https://takeuforward.org/dsa/strivers-a2z-shee
 
 | Topic | Solved | Total (approx.) |
 |---|---|---|
-| Arrays | 5 | 40 |
+| Arrays | 6 | 40 |
 | Binary Search | 0 | - |
 | Strings | 0 | - |
 | Linked List | 0 | - |
@@ -40,6 +40,7 @@ Solving [Striver's A2Z DSA Sheet](https://takeuforward.org/dsa/strivers-a2z-shee
 | 3 | 14-07-2026| Rotate Array | Array | Medium |https://leetcode.com/problems/rotate-array |
 | 4 | 15-07-2026| Move Zeroes | Array | Easy |https://leetcode.com/problems/move-zeroes |
 | 5 | 16-07-2026| Single Element in a Sorted Array | Array | Medium |https://leetcode.com/problems/single-element-in-a-sorted-array |
+| 6 | 17-07-2026| Merge Sorted Array | Array | Easy |https://leetcode.com/problems/merge-sorted-array/ |
 
 
 ---
