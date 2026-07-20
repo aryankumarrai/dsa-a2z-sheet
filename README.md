@@ -11,7 +11,7 @@ Solving [Striver's A2Z DSA Sheet](https://takeuforward.org/dsa/strivers-a2z-shee
 
 | Topic | Solved | Total (approx.) |
 |---|---|---|
-| Arrays | 8 | 40 |
+| Arrays | 9 | 40 |
 | Binary Search | 0 | - |
 | Strings | 0 | - |
 | Linked List | 0 | - |
@@ -27,7 +27,7 @@ Solving [Striver's A2Z DSA Sheet](https://takeuforward.org/dsa/strivers-a2z-shee
 | Dynamic Programming | 0 | - |
 | Tries | 0 | - |
 
-**Total solved: 8**
+**Total solved: 9**
 
 ---
 
@@ -43,6 +43,7 @@ Solving [Striver's A2Z DSA Sheet](https://takeuforward.org/dsa/strivers-a2z-shee
 | 6 | 17-07-2026| Merge Sorted Array | Array | Easy |https://leetcode.com/problems/merge-sorted-array/ |
 | 7 | 18-07-2026| Missing Number | Array | Easy |https://leetcode.com/problems/missing-number/ |
 | 8 | 19-07-2026| Max Consecutive Ones | Array | Easy |https://leetcode.com/problems/max-consecutive-ones |
+| 9 | 20-07-2026| Single Number | Array | Easy |https://leetcode.com/problems/single-number/ |
 
 
 ---
