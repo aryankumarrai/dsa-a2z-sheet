@@ -11,7 +11,7 @@ Solving [Striver's A2Z DSA Sheet](https://takeuforward.org/dsa/strivers-a2z-shee
 
 | Topic | Solved | Total (approx.) |
 |---|---|---|
-| Arrays | 12 | 40 |
+| Arrays | 13 | 40 |
 | Binary Search | 0 | - |
 | Strings | 0 | - |
 | Linked List | 0 | - |
@@ -27,7 +27,7 @@ Solving [Striver's A2Z DSA Sheet](https://takeuforward.org/dsa/strivers-a2z-shee
 | Dynamic Programming | 0 | - |
 | Tries | 0 | - |
 
-**Total solved: 12**
+**Total solved: 13**
 
 ---
 
@@ -47,6 +47,7 @@ Solving [Striver's A2Z DSA Sheet](https://takeuforward.org/dsa/strivers-a2z-shee
 | 10 | 21-07-2026| Two Sum | Array | Easy |https://leetcode.com/problems/two-sum/ |
 | 11 | 22-07-2026| Majority Element | Array | Easy |https://leetcode.com/problems/majority-element/ |
 | 12 | 23-07-2026| Maximum Subarray | Array | Medium |https://leetcode.com/problems/maximum-subarray |
+| 13 | 24-07-2026| Best Time to Buy and Sell Stock | Array | Easy |https://leetcode.com/problems/best-time-to-buy-and-sell-stock |
 
 
 ---
