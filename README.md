@@ -11,7 +11,7 @@ Solving [Striver's A2Z DSA Sheet](https://takeuforward.org/dsa/strivers-a2z-shee
 
 | Topic | Solved | Total (approx.) |
 |---|---|---|
-| Arrays | 14 | 40 |
+| Arrays | 15 | 40 |
 | Binary Search | 0 | - |
 | Strings | 0 | - |
 | Linked List | 0 | - |
@@ -27,7 +27,7 @@ Solving [Striver's A2Z DSA Sheet](https://takeuforward.org/dsa/strivers-a2z-shee
 | Dynamic Programming | 0 | - |
 | Tries | 0 | - |
 
-**Total solved: 14**
+**Total solved: 15**
 
 ---
 
@@ -49,6 +49,7 @@ Solving [Striver's A2Z DSA Sheet](https://takeuforward.org/dsa/strivers-a2z-shee
 | 12 | 23-07-2026| Maximum Subarray | Array | Medium |https://leetcode.com/problems/maximum-subarray |
 | 13 | 24-07-2026| Best Time to Buy and Sell Stock | Array | Easy |https://leetcode.com/problems/best-time-to-buy-and-sell-stock |
 | 14 | 25-07-2026| Sort Colors | Array | Medium |https://leetcode.com/problems/sort-colors |
+| 15 | 26-07-2026| Rearrange Array Elements by Sign | Array | Medium |https://leetcode.com/problems/rearrange-array-elements-by-sign |
 
 
 ---
