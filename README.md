@@ -11,7 +11,7 @@ Solving [Striver's A2Z DSA Sheet](https://takeuforward.org/dsa/strivers-a2z-shee
 
 | Topic | Solved | Total (approx.) |
 |---|---|---|
-| Arrays | 16 | 40 |
+| Arrays | 17 | 40 |
 | Binary Search | 0 | - |
 | Strings | 0 | - |
 | Linked List | 0 | - |
@@ -27,7 +27,7 @@ Solving [Striver's A2Z DSA Sheet](https://takeuforward.org/dsa/strivers-a2z-shee
 | Dynamic Programming | 0 | - |
 | Tries | 0 | - |
 
-**Total solved: 16**
+**Total solved: 17**
 
 ---
 
@@ -51,6 +51,7 @@ Solving [Striver's A2Z DSA Sheet](https://takeuforward.org/dsa/strivers-a2z-shee
 | 14 | 25-07-2026| Sort Colors | Array | Medium |https://leetcode.com/problems/sort-colors |
 | 15 | 26-07-2026| Rearrange Array Elements by Sign | Array | Medium |https://leetcode.com/problems/rearrange-array-elements-by-sign |
 | 16 | 27-07-2026| Next Permutation | Array | Medium |https://leetcode.com/problems/next-permutation |
+| 17 | 28-07-2026| Longest Consecutive Sequence | Array | Medium |https://leetcode.com/problems/longest-consecutive-sequence |
 
 
 ---
