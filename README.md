@@ -11,7 +11,7 @@ Solving [Striver's A2Z DSA Sheet](https://takeuforward.org/dsa/strivers-a2z-shee
 
 | Topic | Solved | Total (approx.) |
 |---|---|---|
-| Arrays | 18 | 40 |
+| Arrays | 19 | 40 |
 | Binary Search | 0 | - |
 | Strings | 0 | - |
 | Linked List | 0 | - |
@@ -27,7 +27,7 @@ Solving [Striver's A2Z DSA Sheet](https://takeuforward.org/dsa/strivers-a2z-shee
 | Dynamic Programming | 0 | - |
 | Tries | 0 | - |
 
-**Total solved: 18**
+**Total solved: 19**
 
 ---
 
@@ -53,6 +53,7 @@ Solving [Striver's A2Z DSA Sheet](https://takeuforward.org/dsa/strivers-a2z-shee
 | 16 | 27-07-2026| Next Permutation | Array | Medium |https://leetcode.com/problems/next-permutation |
 | 17 | 28-07-2026| Longest Consecutive Sequence | Array | Medium |https://leetcode.com/problems/longest-consecutive-sequence |
 | 18 | 29-07-2026| Replace Elements with Greatest Element on Right Side | Array | Easy |https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side |
+| 19 | 30-07-2026| Set Matrix Zeroes | Array | Medium |https://leetcode.com/problems/set-matrix-zeroes |
 
 
 ---
