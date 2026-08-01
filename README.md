@@ -11,7 +11,7 @@ Solving [Striver's A2Z DSA Sheet](https://takeuforward.org/dsa/strivers-a2z-shee
 
 | Topic | Solved | Total (approx.) |
 |---|---|---|
-| Arrays | 21 | 40 |
+| Arrays | 22 | 40 |
 | Binary Search | 0 | - |
 | Strings | 0 | - |
 | Linked List | 0 | - |
@@ -27,7 +27,7 @@ Solving [Striver's A2Z DSA Sheet](https://takeuforward.org/dsa/strivers-a2z-shee
 | Dynamic Programming | 0 | - |
 | Tries | 0 | - |
 
-**Total solved: 21**
+**Total solved: 22**
 
 ---
 
@@ -56,6 +56,7 @@ Solving [Striver's A2Z DSA Sheet](https://takeuforward.org/dsa/strivers-a2z-shee
 | 19 | 30-07-2026| Set Matrix Zeroes | Array | Medium |https://leetcode.com/problems/set-matrix-zeroes |
 | 20 | 30-07-2026| Rotate Image | Array | Medium |https://leetcode.com/problems/rotate-image |
 | 21 | 31-07-2026| Spiral Matrix | Array | Medium |https://leetcode.com/problems/spiral-matrix |
+| 22 | 01-08-2026| Subarray Sum Equals K | Array | Medium |https://leetcode.com/problems/subarray-sum-equals-k |
 
 
 ---
