@@ -11,8 +11,8 @@ Solving [Striver's A2Z DSA Sheet](https://takeuforward.org/dsa/strivers-a2z-shee
 
 | Topic | Solved | Total (approx.) |
 |---|---|---|
-| Arrays | 22 | 40 |
-| Binary Search | 0 | - |
+| Arrays | 23 | 40 |
+| Binary Search | 1 | 32 |
 | Strings | 0 | - |
 | Linked List | 0 | - |
 | Recursion & Backtracking | 0 | - |
@@ -27,7 +27,7 @@ Solving [Striver's A2Z DSA Sheet](https://takeuforward.org/dsa/strivers-a2z-shee
 | Dynamic Programming | 0 | - |
 | Tries | 0 | - |
 
-**Total solved: 22**
+**Total solved: 24**
 
 ---
 
@@ -57,6 +57,8 @@ Solving [Striver's A2Z DSA Sheet](https://takeuforward.org/dsa/strivers-a2z-shee
 | 20 | 30-07-2026| Rotate Image | Array | Medium |https://leetcode.com/problems/rotate-image |
 | 21 | 31-07-2026| Spiral Matrix | Array | Medium |https://leetcode.com/problems/spiral-matrix |
 | 22 | 01-08-2026| Subarray Sum Equals K | Array | Medium |https://leetcode.com/problems/subarray-sum-equals-k |
+| 23 | 02-08-2026| Pascal's Triangle | Array | Easy |https://leetcode.com/problems/pascals-triangle |
+| 24 | 02-08-2026| Binary Search | Array | Easy |https://leetcode.com/problems/binary-search |
 
 
 ---
