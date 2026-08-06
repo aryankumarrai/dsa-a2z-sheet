@@ -12,7 +12,7 @@ Solving [Striver's A2Z DSA Sheet](https://takeuforward.org/dsa/strivers-a2z-shee
 | Topic | Solved | Total (approx.) |
 |---|---|---|
 | Arrays | 23 | 40 |
-| Binary Search | 4 | 32 |
+| Binary Search | 5 | 32 |
 | Strings | 0 | - |
 | Linked List | 0 | - |
 | Recursion & Backtracking | 0 | - |
@@ -27,7 +27,7 @@ Solving [Striver's A2Z DSA Sheet](https://takeuforward.org/dsa/strivers-a2z-shee
 | Dynamic Programming | 0 | - |
 | Tries | 0 | - |
 
-**Total solved: 27**
+**Total solved: 28**
 
 ---
 
@@ -62,6 +62,7 @@ Solving [Striver's A2Z DSA Sheet](https://takeuforward.org/dsa/strivers-a2z-shee
 | 25 | 03-08-2026| Search Insert Position | Binary Search | Easy |https://leetcode.com/problems/search-insert-position |
 | 26 | 04-08-2026| Find First and Last Position of Element in Sorted Array | Binary Search | Medium |https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array |
 | 27 | 05-08-2026| Search in Rotated Sorted Array | Binary Search | Medium |https://leetcode.com/problems/search-in-rotated-sorted-array |
+| 28 | 06-08-2026| Search in Rotated Sorted Array II | Binary Search | Medium |https://leetcode.com/problems/search-in-rotated-sorted-array-ii |
 
 
 ---
