@@ -12,7 +12,7 @@ Solving [Striver's A2Z DSA Sheet](https://takeuforward.org/dsa/strivers-a2z-shee
 | Topic | Solved | Total (approx.) |
 |---|---|---|
 | Arrays | 23 | 40 |
-| Binary Search | 7 | 32 |
+| Binary Search | 8 | 32 |
 | Strings | 0 | - |
 | Linked List | 0 | - |
 | Recursion & Backtracking | 0 | - |
@@ -27,7 +27,7 @@ Solving [Striver's A2Z DSA Sheet](https://takeuforward.org/dsa/strivers-a2z-shee
 | Dynamic Programming | 0 | - |
 | Tries | 0 | - |
 
-**Total solved: 30**
+**Total solved: 31**
 
 ---
 
@@ -63,8 +63,9 @@ Solving [Striver's A2Z DSA Sheet](https://takeuforward.org/dsa/strivers-a2z-shee
 | 26 | 04-08-2026| Find First and Last Position of Element in Sorted Array | Binary Search | Medium |https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array |
 | 27 | 05-08-2026| Search in Rotated Sorted Array | Binary Search | Medium |https://leetcode.com/problems/search-in-rotated-sorted-array |
 | 28 | 06-08-2026| Search in Rotated Sorted Array II | Binary Search | Medium |https://leetcode.com/problems/search-in-rotated-sorted-array-ii |
-| 29 | 05-08-2026| Find Minimum in Rotated Sorted Array | Binary Search | Medium |https://leetcode.com/problems/find-minimum-in-rotated-sorted-array |
-| 30 | 06-08-2026| Find Minimum in Rotated Sorted Array II | Binary Search | Hard |https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii |
+| 29 | 07-08-2026| Find Minimum in Rotated Sorted Array | Binary Search | Medium |https://leetcode.com/problems/find-minimum-in-rotated-sorted-array |
+| 30 | 08-08-2026| Find Minimum in Rotated Sorted Array II | Binary Search | Hard |https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii |
+| 31 | 09-08-2026| Single Element in a Sorted Array | Binary Search | Medium |https://leetcode.com/problems/single-element-in-a-sorted-array/ |
 
 
 ---
