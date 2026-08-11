@@ -12,7 +12,7 @@ Solving [Striver's A2Z DSA Sheet](https://takeuforward.org/dsa/strivers-a2z-shee
 | Topic | Solved | Total (approx.) |
 |---|---|---|
 | Arrays | 23 | 40 |
-| Binary Search | 9 | 32 |
+| Binary Search | 10 | 32 |
 | Strings | 0 | - |
 | Linked List | 0 | - |
 | Recursion & Backtracking | 0 | - |
@@ -27,7 +27,7 @@ Solving [Striver's A2Z DSA Sheet](https://takeuforward.org/dsa/strivers-a2z-shee
 | Dynamic Programming | 0 | - |
 | Tries | 0 | - |
 
-**Total solved: 32**
+**Total solved: 33**
 
 ---
 
@@ -67,6 +67,7 @@ Solving [Striver's A2Z DSA Sheet](https://takeuforward.org/dsa/strivers-a2z-shee
 | 30 | 08-08-2026| Find Minimum in Rotated Sorted Array II | Binary Search | Hard |https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii |
 | 31 | 09-08-2026| Single Element in a Sorted Array | Binary Search | Medium |https://leetcode.com/problems/single-element-in-a-sorted-array/ |
 | 32 | 10-08-2026| Find Peak Element | Binary Search | Medium |https://leetcode.com/problems/find-peak-element/ |
+| 33 | 11-08-2026| Koko Eating Bananas | Binary Search | Medium |https://leetcode.com/problems/koko-eating-bananas/ |
 
 
 ---
