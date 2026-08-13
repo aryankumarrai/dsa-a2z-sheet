@@ -12,7 +12,7 @@ Solving [Striver's A2Z DSA Sheet](https://takeuforward.org/dsa/strivers-a2z-shee
 | Topic | Solved | Total (approx.) |
 |---|---|---|
 | Arrays | 23 | 40 |
-| Binary Search | 12 | 32 |
+| Binary Search | 13 | 32 |
 | Strings | 0 | - |
 | Linked List | 0 | - |
 | Recursion & Backtracking | 0 | - |
@@ -27,7 +27,7 @@ Solving [Striver's A2Z DSA Sheet](https://takeuforward.org/dsa/strivers-a2z-shee
 | Dynamic Programming | 0 | - |
 | Tries | 0 | - |
 
-**Total solved: 34**
+**Total solved: 35**
 
 ---
 
@@ -69,6 +69,7 @@ Solving [Striver's A2Z DSA Sheet](https://takeuforward.org/dsa/strivers-a2z-shee
 | 32 | 10-08-2026| Find Peak Element | Binary Search | Medium |https://leetcode.com/problems/find-peak-element/ |
 | 33 | 11-08-2026| Koko Eating Bananas | Binary Search | Medium |https://leetcode.com/problems/koko-eating-bananas/ |
 | 34 | 12-08-2026| Minimum Number of Days to Make m Bouquets | Binary Search | Medium |https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/ |
+| 35 | 13-08-2026| Find the Smallest Divisor Given a Threshold | Binary Search | Medium |https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold/ |
 
 
 ---
