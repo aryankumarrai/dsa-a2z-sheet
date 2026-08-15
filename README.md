@@ -71,6 +71,7 @@ Solving [Striver's A2Z DSA Sheet](https://takeuforward.org/dsa/strivers-a2z-shee
 | 34 | 12-08-2026| Minimum Number of Days to Make m Bouquets | Binary Search | Medium |https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/ |
 | 35 | 13-08-2026| Find the Smallest Divisor Given a Threshold | Binary Search | Medium |https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold/ |
 | 36 | 14-08-2026| Capacity To Ship Packages Within D Days | Binary Search | Medium |https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/ |
+| 37 | 15-08-2026| Kth Missing Positive Number | Binary Search | Easy |https://leetcode.com/problems/kth-missing-positive-number/ |
 
 
 ---
