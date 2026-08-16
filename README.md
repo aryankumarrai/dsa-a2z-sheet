@@ -12,7 +12,7 @@ Solving [Striver's A2Z DSA Sheet](https://takeuforward.org/dsa/strivers-a2z-shee
 | Topic | Solved | Total (approx.) |
 |---|---|---|
 | Arrays | 23 | 40 |
-| Binary Search | 14 | 32 |
+| Binary Search | 15 | 32 |
 | Strings | 0 | - |
 | Linked List | 0 | - |
 | Recursion & Backtracking | 0 | - |
@@ -27,7 +27,7 @@ Solving [Striver's A2Z DSA Sheet](https://takeuforward.org/dsa/strivers-a2z-shee
 | Dynamic Programming | 0 | - |
 | Tries | 0 | - |
 
-**Total solved: 37**
+**Total solved: 38**
 
 ---
 
@@ -72,6 +72,7 @@ Solving [Striver's A2Z DSA Sheet](https://takeuforward.org/dsa/strivers-a2z-shee
 | 35 | 13-08-2026| Find the Smallest Divisor Given a Threshold | Binary Search | Medium |https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold/ |
 | 36 | 14-08-2026| Capacity To Ship Packages Within D Days | Binary Search | Medium |https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/ |
 | 37 | 15-08-2026| Kth Missing Positive Number | Binary Search | Easy |https://leetcode.com/problems/kth-missing-positive-number/ |
+| 38 | 16-08-2026| Split Array Largest Sum | Binary Search | Hard |https://leetcode.com/problems/split-array-largest-sum/ |
 
 
 ---
