@@ -12,7 +12,7 @@ Solving [Striver's A2Z DSA Sheet](https://takeuforward.org/dsa/strivers-a2z-shee
 | Topic | Solved | Total (approx.) |
 |---|---|---|
 | Arrays | 23 | 40 |
-| Binary Search | 18 | 32 |
+| Binary Search | 19 | 32 |
 | Strings | 0 | - |
 | Linked List | 0 | - |
 | Recursion & Backtracking | 0 | - |
@@ -27,7 +27,7 @@ Solving [Striver's A2Z DSA Sheet](https://takeuforward.org/dsa/strivers-a2z-shee
 | Dynamic Programming | 0 | - |
 | Tries | 0 | - |
 
-**Total solved: 41**
+**Total solved: 42**
 
 ---
 
@@ -76,6 +76,7 @@ Solving [Striver's A2Z DSA Sheet](https://takeuforward.org/dsa/strivers-a2z-shee
 | 39 | 17-08-2026| Median of Two Sorted Arrays | Binary Search | Hard |https://leetcode.com/problems/median-of-two-sorted-arrays/ |
 | 40 | 18-08-2026| Search a 2D Matrix | Binary Search | Medium |https://leetcode.com/problems/search-a-2d-matrix/ |
 | 41 | 19-08-2026| Search a 2D Matrix II | Binary Search | Medium |https://leetcode.com/problems/search-a-2d-matrix-ii/ |
+| 42 | 20-08-2026| Find a Peak Element II | Binary Search | Medium |https://leetcode.com/problems/find-a-peak-element-ii/ |
 ---
 
 ## Structure
