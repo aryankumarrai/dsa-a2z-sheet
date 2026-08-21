@@ -13,7 +13,7 @@ Solving [Striver's A2Z DSA Sheet](https://takeuforward.org/dsa/strivers-a2z-shee
 |---|---|---|
 | Arrays | 23 | 40 |
 | Binary Search | 19 | 32 |
-| Strings | 0 | - |
+| Strings | 1 | 15 |
 | Linked List | 0 | - |
 | Recursion & Backtracking | 0 | - |
 | Bit Manipulation | 0 | - |
@@ -27,7 +27,7 @@ Solving [Striver's A2Z DSA Sheet](https://takeuforward.org/dsa/strivers-a2z-shee
 | Dynamic Programming | 0 | - |
 | Tries | 0 | - |
 
-**Total solved: 42**
+**Total solved: 43**
 
 ---
 
@@ -77,6 +77,7 @@ Solving [Striver's A2Z DSA Sheet](https://takeuforward.org/dsa/strivers-a2z-shee
 | 40 | 18-08-2026| Search a 2D Matrix | Binary Search | Medium |https://leetcode.com/problems/search-a-2d-matrix/ |
 | 41 | 19-08-2026| Search a 2D Matrix II | Binary Search | Medium |https://leetcode.com/problems/search-a-2d-matrix-ii/ |
 | 42 | 20-08-2026| Find a Peak Element II | Binary Search | Medium |https://leetcode.com/problems/find-a-peak-element-ii/ |
+| 43 | 21-08-2026| Remove Outermost Parentheses | String | Easy |https://leetcode.com/problems/remove-outermost-parentheses/ |
 ---
 
 ## Structure
