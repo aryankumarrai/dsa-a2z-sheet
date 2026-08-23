@@ -13,7 +13,7 @@ Solving [Striver's A2Z DSA Sheet](https://takeuforward.org/dsa/strivers-a2z-shee
 |---|---|---|
 | Arrays | 23 | 40 |
 | Binary Search | 19 | 32 |
-| Strings | 3 | 15 |
+| Strings | 4 | 15 |
 | Linked List | 0 | - |
 | Recursion & Backtracking | 0 | - |
 | Bit Manipulation | 0 | - |
@@ -27,7 +27,7 @@ Solving [Striver's A2Z DSA Sheet](https://takeuforward.org/dsa/strivers-a2z-shee
 | Dynamic Programming | 0 | - |
 | Tries | 0 | - |
 
-**Total solved: 45**
+**Total solved: 46**
 
 ---
 
@@ -79,7 +79,8 @@ Solving [Striver's A2Z DSA Sheet](https://takeuforward.org/dsa/strivers-a2z-shee
 | 42 | 20-08-2026| Find a Peak Element II | Binary Search | Medium |https://leetcode.com/problems/find-a-peak-element-ii/ |
 | 43 | 21-08-2026| Remove Outermost Parentheses | String | Easy |https://leetcode.com/problems/remove-outermost-parentheses/ |
 | 44 | 22-08-2026| Reverse Words in a String | String | Medium |https://leetcode.com/problems/reverse-words-in-a-string/|
-| 43 | 22-08-2026| Largest Odd Number in String | String | Easy |https://leetcode.com/problems/largest-odd-number-in-string/|
+| 45 | 22-08-2026| Largest Odd Number in String | String | Easy |https://leetcode.com/problems/largest-odd-number-in-string/|
+| 46 | 23-08-2026| Longest Common Prefix | String | Easy |https://leetcode.com/problems/longest-common-prefix/|
 ---
 
 ## Structure
