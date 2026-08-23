@@ -13,7 +13,7 @@ Solving [Striver's A2Z DSA Sheet](https://takeuforward.org/dsa/strivers-a2z-shee
 |---|---|---|
 | Arrays | 23 | 40 |
 | Binary Search | 19 | 32 |
-| Strings | 4 | 15 |
+| Strings | 5 | 15 |
 | Linked List | 0 | - |
 | Recursion & Backtracking | 0 | - |
 | Bit Manipulation | 0 | - |
@@ -27,7 +27,7 @@ Solving [Striver's A2Z DSA Sheet](https://takeuforward.org/dsa/strivers-a2z-shee
 | Dynamic Programming | 0 | - |
 | Tries | 0 | - |
 
-**Total solved: 46**
+**Total solved: 47**
 
 ---
 
@@ -81,6 +81,7 @@ Solving [Striver's A2Z DSA Sheet](https://takeuforward.org/dsa/strivers-a2z-shee
 | 44 | 22-08-2026| Reverse Words in a String | String | Medium |https://leetcode.com/problems/reverse-words-in-a-string/|
 | 45 | 22-08-2026| Largest Odd Number in String | String | Easy |https://leetcode.com/problems/largest-odd-number-in-string/|
 | 46 | 23-08-2026| Longest Common Prefix | String | Easy |https://leetcode.com/problems/longest-common-prefix/|
+| 47 | 23-08-2026| Isomorphic Strings | String | Easy |https://leetcode.com/problems/isomorphic-strings/|
 ---
 
 ## Structure
