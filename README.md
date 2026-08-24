@@ -13,7 +13,7 @@ Solving [Striver's A2Z DSA Sheet](https://takeuforward.org/dsa/strivers-a2z-shee
 |---|---|---|
 | Arrays | 23 | 40 |
 | Binary Search | 19 | 32 |
-| Strings | 6 | 15 |
+| Strings | 7 | 15 |
 | Linked List | 0 | - |
 | Recursion & Backtracking | 0 | - |
 | Bit Manipulation | 0 | - |
@@ -27,7 +27,7 @@ Solving [Striver's A2Z DSA Sheet](https://takeuforward.org/dsa/strivers-a2z-shee
 | Dynamic Programming | 0 | - |
 | Tries | 0 | - |
 
-**Total solved: 48**
+**Total solved: 49**
 
 ---
 
@@ -83,6 +83,7 @@ Solving [Striver's A2Z DSA Sheet](https://takeuforward.org/dsa/strivers-a2z-shee
 | 46 | 23-08-2026| Longest Common Prefix | String | Easy |https://leetcode.com/problems/longest-common-prefix/|
 | 47 | 23-08-2026| Isomorphic Strings | String | Easy |https://leetcode.com/problems/isomorphic-strings/|
 | 48 | 24-08-2026| Rotate String | String | Easy |https://leetcode.com/problems/rotate-string/|
+| 49 | 24-08-2026| Valid Anagram | String | Easy |https://leetcode.com/problems/valid-anagram/|
 ---
 
 ## Structure
