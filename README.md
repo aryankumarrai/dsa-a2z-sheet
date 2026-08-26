@@ -13,7 +13,7 @@ Solving [Striver's A2Z DSA Sheet](https://takeuforward.org/dsa/strivers-a2z-shee
 |---|---|---|
 | Arrays | 23 | 40 |
 | Binary Search | 19 | 32 |
-| Strings | 8 | 15 |
+| Strings | 9 | 15 |
 | Linked List | 0 | - |
 | Recursion & Backtracking | 0 | - |
 | Bit Manipulation | 0 | - |
@@ -27,7 +27,7 @@ Solving [Striver's A2Z DSA Sheet](https://takeuforward.org/dsa/strivers-a2z-shee
 | Dynamic Programming | 0 | - |
 | Tries | 0 | - |
 
-**Total solved: 50**
+**Total solved: 51**
 
 ---
 
@@ -85,6 +85,7 @@ Solving [Striver's A2Z DSA Sheet](https://takeuforward.org/dsa/strivers-a2z-shee
 | 48 | 24-08-2026| Rotate String | String | Easy |https://leetcode.com/problems/rotate-string/|
 | 49 | 24-08-2026| Valid Anagram | String | Easy |https://leetcode.com/problems/valid-anagram/|
 | 50 | 25-08-2026| Sort Characters By Frequency | String | Medium |https://leetcode.com/problems/sort-characters-by-frequency/|
+| 51 | 26-08-2026| Maximum Nesting Depth of the Parentheses | String | Easy |https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/|
 ---
 
 ## Structure
