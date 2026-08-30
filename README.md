@@ -13,7 +13,7 @@ Solving [Striver's A2Z DSA Sheet](https://takeuforward.org/dsa/strivers-a2z-shee
 |---|---|---|
 | Arrays | 23 | 40 |
 | Binary Search | 19 | 32 |
-| Strings | 12 | 15 |
+| Strings | 13 | 14 |
 | Linked List | 0 | - |
 | Recursion & Backtracking | 0 | - |
 | Bit Manipulation | 0 | - |
@@ -27,7 +27,7 @@ Solving [Striver's A2Z DSA Sheet](https://takeuforward.org/dsa/strivers-a2z-shee
 | Dynamic Programming | 0 | - |
 | Tries | 0 | - |
 
-**Total solved: 54**
+**Total solved: 55**
 
 ---
 
@@ -89,6 +89,7 @@ Solving [Striver's A2Z DSA Sheet](https://takeuforward.org/dsa/strivers-a2z-shee
 | 52 | 27-08-2026| Roman to Integer | String | Easy |https://leetcode.com/problems/roman-to-integer/|
 | 53 | 28-08-2026| String to Integer (atoi) | String | Medium |https://leetcode.com/problems/string-to-integer-atoi/|
 | 54 | 29-08-2026| Longest Palindromic Substring | String | Medium |https://leetcode.com/problems/longest-palindromic-substring/|
+| 55 | 30-08-2026| Sum of Beauty of All Substrings | String | Medium |https://leetcode.com/problems/sum-of-beauty-of-all-substrings/|
 ---
 
 ## Structure
