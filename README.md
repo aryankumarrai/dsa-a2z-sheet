@@ -14,7 +14,7 @@ Solving [Striver's A2Z DSA Sheet](https://takeuforward.org/dsa/strivers-a2z-shee
 | Arrays | 23 | 40 |
 | Binary Search | 19 | 32 |
 | Strings | 13 | 14 |
-| Linked List | 2 | 31 |
+| Linked List | 3 | 31 |
 | Recursion & Backtracking | 0 | - |
 | Bit Manipulation | 0 | - |
 | Stack & Queue | 0 | - |
@@ -27,7 +27,7 @@ Solving [Striver's A2Z DSA Sheet](https://takeuforward.org/dsa/strivers-a2z-shee
 | Dynamic Programming | 0 | - |
 | Tries | 0 | - |
 
-**Total solved: 57**
+**Total solved: 58**
 
 ---
 
@@ -92,6 +92,7 @@ Solving [Striver's A2Z DSA Sheet](https://takeuforward.org/dsa/strivers-a2z-shee
 | 55 | 30-08-2026| Sum of Beauty of All Substrings | String | Medium |https://leetcode.com/problems/sum-of-beauty-of-all-substrings/|
 | 56 | 31-08-2026| Delete Node in a Linked List | Linked List | Medium |https://leetcode.com/problems/delete-node-in-a-linked-list/|
 | 57 | 01-09-2026| Design Linked List | Linked List | Medium |https://leetcode.com/problems/design-linked-list/|
+| 58 | 02-09-2026| Middle of the Linked List | Linked List | Easy |https://leetcode.com/problems/middle-of-the-linked-list/|
 ---
 
 ## Structure
