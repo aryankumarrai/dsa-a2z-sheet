@@ -15,7 +15,7 @@ Solving [Striver's A2Z DSA Sheet](https://takeuforward.org/dsa/strivers-a2z-shee
 | Binary Search | 19 | 32 |
 | Strings | 13 | 14 |
 | Linked List | 3 | 31 |
-| Recursion & Backtracking | 0 | - |
+| Recursion & Backtracking | 1 | 25 |
 | Bit Manipulation | 0 | - |
 | Stack & Queue | 0 | - |
 | Sliding Window & Two Pointer | 0 | - |
@@ -27,7 +27,7 @@ Solving [Striver's A2Z DSA Sheet](https://takeuforward.org/dsa/strivers-a2z-shee
 | Dynamic Programming | 0 | - |
 | Tries | 0 | - |
 
-**Total solved: 58**
+**Total solved: 59**
 
 ---
 
@@ -93,6 +93,7 @@ Solving [Striver's A2Z DSA Sheet](https://takeuforward.org/dsa/strivers-a2z-shee
 | 56 | 31-08-2026| Delete Node in a Linked List | Linked List | Medium |https://leetcode.com/problems/delete-node-in-a-linked-list/|
 | 57 | 01-09-2026| Design Linked List | Linked List | Medium |https://leetcode.com/problems/design-linked-list/|
 | 58 | 02-09-2026| Middle of the Linked List | Linked List | Easy |https://leetcode.com/problems/middle-of-the-linked-list/|
+| 59 | 03-09-2026| Pow(x, n) | Recursion | Medium |https://leetcode.com/problems/powx-n/|
 ---
 
 ## Structure
