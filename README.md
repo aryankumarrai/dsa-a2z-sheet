@@ -14,7 +14,7 @@ Solving [Striver's A2Z DSA Sheet](https://takeuforward.org/dsa/strivers-a2z-shee
 | Arrays | 23 | 40 |
 | Binary Search | 19 | 32 |
 | Strings | 13 | 14 |
-| Linked List | 8 | 31 |
+| Linked List | 9 | 31 |
 | Recursion & Backtracking | 1 | 25 |
 | Bit Manipulation | 0 | - |
 | Stack & Queue | 0 | - |
@@ -27,7 +27,7 @@ Solving [Striver's A2Z DSA Sheet](https://takeuforward.org/dsa/strivers-a2z-shee
 | Dynamic Programming | 0 | - |
 | Tries | 0 | - |
 
-**Total solved: 64**
+**Total solved: 65**
 
 ---
 
@@ -99,6 +99,7 @@ Solving [Striver's A2Z DSA Sheet](https://takeuforward.org/dsa/strivers-a2z-shee
 | 62 | 06-09-2026| Linked List Cycle II | Linked List | Medium |https://leetcode.com/problems/linked-list-cycle-ii/|
 | 63 | 07-09-2026| Remove Nth Node From End of List | Linked List | Medium |https://leetcode.com/problems/remove-nth-node-from-end-of-list/|
 | 64 | 08-09-2026| Delete the Middle Node of a Linked List | Linked List | Medium |https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/|
+| 65 | 09-09-2026| Add Two Numbers | Linked List | Medium |https://leetcode.com/problems/add-two-numbers/|
 ---
 
 ## Structure
