@@ -18,7 +18,7 @@ Solving [Striver's A2Z DSA Sheet](https://takeuforward.org/dsa/strivers-a2z-shee
 | Recursion & Backtracking | 1 | 25 |
 | Bit Manipulation | 0 | - |
 | Stack & Queue | 0 | - |
-| Sliding Window & Two Pointer | 0 | - |
+| Sliding Window & Two Pointer | 1 | 11 |
 | Heaps | 0 | - |
 | Greedy | 0 | - |
 | Trees | 0 | - |
@@ -27,7 +27,7 @@ Solving [Striver's A2Z DSA Sheet](https://takeuforward.org/dsa/strivers-a2z-shee
 | Dynamic Programming | 0 | - |
 | Tries | 0 | - |
 
-**Total solved: 65**
+**Total solved: 66**
 
 ---
 
@@ -100,6 +100,7 @@ Solving [Striver's A2Z DSA Sheet](https://takeuforward.org/dsa/strivers-a2z-shee
 | 63 | 07-09-2026| Remove Nth Node From End of List | Linked List | Medium |https://leetcode.com/problems/remove-nth-node-from-end-of-list/|
 | 64 | 08-09-2026| Delete the Middle Node of a Linked List | Linked List | Medium |https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/|
 | 65 | 09-09-2026| Add Two Numbers | Linked List | Medium |https://leetcode.com/problems/add-two-numbers/|
+| 66 | 10-09-2026| Max Consecutive Ones III | Sliding Window | Medium |https://leetcode.com/problems/max-consecutive-ones-iii/|
 ---
 
 ## Structure
