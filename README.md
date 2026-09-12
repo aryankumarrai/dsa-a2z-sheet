@@ -18,7 +18,7 @@ Solving [Striver's A2Z DSA Sheet](https://takeuforward.org/dsa/strivers-a2z-shee
 | Recursion & Backtracking | 1 | 25 |
 | Bit Manipulation | 0 | - |
 | Stack & Queue | 0 | - |
-| Sliding Window & Two Pointer | 2 | 11 |
+| Sliding Window & Two Pointer | 3 | 11 |
 | Heaps | 0 | - |
 | Greedy | 0 | - |
 | Trees | 0 | - |
@@ -27,7 +27,7 @@ Solving [Striver's A2Z DSA Sheet](https://takeuforward.org/dsa/strivers-a2z-shee
 | Dynamic Programming | 0 | - |
 | Tries | 0 | - |
 
-**Total solved: 67**
+**Total solved: 68**
 
 ---
 
@@ -102,6 +102,7 @@ Solving [Striver's A2Z DSA Sheet](https://takeuforward.org/dsa/strivers-a2z-shee
 | 65 | 09-09-2026| Add Two Numbers | Linked List | Medium |https://leetcode.com/problems/add-two-numbers/|
 | 66 | 10-09-2026| Max Consecutive Ones III | Sliding Window | Medium |https://leetcode.com/problems/max-consecutive-ones-iii/|
 | 67 | 11-09-2026| Fruit Into Baskets | Sliding Window | Medium |https://leetcode.com/problems/fruit-into-baskets/|
+| 68 | 12-09-2026| Maximum Points You Can Obtain from Cards | Sliding Window | Medium |https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/|
 ---
 
 ## Structure
