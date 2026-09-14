@@ -104,6 +104,7 @@ Solving [Striver's A2Z DSA Sheet](https://takeuforward.org/dsa/strivers-a2z-shee
 | 67 | 11-09-2026| Fruit Into Baskets | Sliding Window | Medium |https://leetcode.com/problems/fruit-into-baskets/|
 | 68 | 12-09-2026| Maximum Points You Can Obtain from Cards | Sliding Window | Medium |https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/|
 | 69 | 13-09-2026| Longest Repeating Character Replacement | Sliding Window | Medium |https://leetcode.com/problems/longest-repeating-character-replacement/|
+| 70 | 14-09-2026| Number of Substrings Containing All Three Characters | Sliding Window | Medium |https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/|
 ---
 
 ## Structure
