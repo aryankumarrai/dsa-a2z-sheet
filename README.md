@@ -18,7 +18,7 @@ Solving [Striver's A2Z DSA Sheet](https://takeuforward.org/dsa/strivers-a2z-shee
 | Recursion & Backtracking | 1 | 25 |
 | Bit Manipulation | 0 | - |
 | Stack & Queue | 0 | - |
-| Sliding Window & Two Pointer | 4 | 11 |
+| Sliding Window & Two Pointer | 5 | 11 |
 | Heaps | 0 | - |
 | Greedy | 0 | - |
 | Trees | 0 | - |
@@ -27,7 +27,7 @@ Solving [Striver's A2Z DSA Sheet](https://takeuforward.org/dsa/strivers-a2z-shee
 | Dynamic Programming | 0 | - |
 | Tries | 0 | - |
 
-**Total solved: 69**
+**Total solved: 70**
 
 ---
 
@@ -106,6 +106,7 @@ Solving [Striver's A2Z DSA Sheet](https://takeuforward.org/dsa/strivers-a2z-shee
 | 69 | 13-09-2026| Longest Repeating Character Replacement | Sliding Window | Medium |https://leetcode.com/problems/longest-repeating-character-replacement/|
 | 70 | 14-09-2026| Number of Substrings Containing All Three Characters | Sliding Window | Medium |https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/|
 | 71 | 15-09-2026| Count Number of Nice Subarrays | Sliding Window | Medium |https://leetcode.com/problems/count-number-of-nice-subarrays/|
+| 72 | 16-09-2026| Binary Subarrays With Sum | Sliding Window | Medium |https://leetcode.com/problems/binary-subarrays-with-sum/|
 ---
 
 ## Structure
