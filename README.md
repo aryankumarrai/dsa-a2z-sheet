@@ -17,7 +17,7 @@ Solving [Striver's A2Z DSA Sheet](https://takeuforward.org/dsa/strivers-a2z-shee
 | Linked List | 10 | 31 |
 | Recursion & Backtracking | 1 | 25 |
 | Bit Manipulation | 0 | - |
-| Stack & Queue | 0 | - |
+| Stack & Queue | 1 | 30 |
 | Sliding Window & Two Pointer | 5 | 11 |
 | Heaps | 0 | - |
 | Greedy | 0 | - |
@@ -27,7 +27,7 @@ Solving [Striver's A2Z DSA Sheet](https://takeuforward.org/dsa/strivers-a2z-shee
 | Dynamic Programming | 0 | - |
 | Tries | 0 | - |
 
-**Total solved: 71**
+**Total solved: 72**
 
 ---
 
@@ -108,6 +108,7 @@ Solving [Striver's A2Z DSA Sheet](https://takeuforward.org/dsa/strivers-a2z-shee
 | 71 | 15-09-2026| Count Number of Nice Subarrays | Sliding Window | Medium |https://leetcode.com/problems/count-number-of-nice-subarrays/|
 | 72 | 16-09-2026| Binary Subarrays With Sum | Sliding Window | Medium |https://leetcode.com/problems/binary-subarrays-with-sum/|
 | 73 | 17-09-2026| Sort List | Linked List | Medium |https://leetcode.com/problems/sort-list/|
+| 74 | 18-09-2026| Implement Stack using Queues | Stack-Queue | Easy |https://leetcode.com/problems/sort-list/|
 ---
 
 ## Structure
