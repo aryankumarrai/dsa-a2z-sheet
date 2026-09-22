@@ -16,7 +16,7 @@ Solving [Striver's A2Z DSA Sheet](https://takeuforward.org/dsa/strivers-a2z-shee
 | Strings | 13 | 14 |
 | Linked List | 10 | 31 |
 | Recursion & Backtracking | 1 | 25 |
-| Bit Manipulation | 2 | 18 |
+| Bit Manipulation | 3 | 18 |
 | Stack & Queue | 1 | 30 |
 | Sliding Window & Two Pointer | 5 | 11 |
 | Heaps | 0 | - |
@@ -27,7 +27,7 @@ Solving [Striver's A2Z DSA Sheet](https://takeuforward.org/dsa/strivers-a2z-shee
 | Dynamic Programming | 0 | - |
 | Tries | 0 | - |
 
-**Total solved: 74**
+**Total solved: 75**
 
 ---
 
@@ -111,6 +111,7 @@ Solving [Striver's A2Z DSA Sheet](https://takeuforward.org/dsa/strivers-a2z-shee
 | 74 | 18-09-2026| Implement Stack using Queues | Stack-Queue | Easy |https://leetcode.com/problems/sort-list/|
 | 75 | 19-09-2026| Power of Two | Bit-Manipulation | Easy |https://leetcode.com/problems/power-of-two/|
 | 76 | 20-09-2026| Minimum Bit Flips to Convert Number | Bit-Manipulation | Easy |https://leetcode.com/problems/minimum-bit-flips-to-convert-number/|
+| 77 | 21-09-2026| Single Number | Bit-Manipulation | Easy |https://leetcode.com/problems/single-number/|
 ---
 
 ## Structure
