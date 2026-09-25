@@ -20,14 +20,14 @@ Solving [Striver's A2Z DSA Sheet](https://takeuforward.org/dsa/strivers-a2z-shee
 | Stack & Queue | 1 | 30 |
 | Sliding Window & Two Pointer | 5 | 11 |
 | Heaps | 0 | - |
-| Greedy | 2 | 14 |
+| Greedy | 3 | 14 |
 | Trees | 0 | - |
 | Binary Search Trees | 0 | - |
 | Graphs | 0 | - |
 | Dynamic Programming | 0 | - |
 | Tries | 0 | - |
 
-**Total solved: 78**
+**Total solved: 79**
 
 ---
 
@@ -113,8 +113,9 @@ Solving [Striver's A2Z DSA Sheet](https://takeuforward.org/dsa/strivers-a2z-shee
 | 76 | 20-09-2026| Minimum Bit Flips to Convert Number | Bit-Manipulation | Easy |https://leetcode.com/problems/minimum-bit-flips-to-convert-number/|
 | 77 | 21-09-2026| Single Number | Bit-Manipulation | Easy |https://leetcode.com/problems/single-number/|
 | 78 | 22-09-2026| Divide Two Integers | Bit-Manipulation | Medium |https://leetcode.com/problems/divide-two-integers/|
-| 79 | 21-09-2026| Assign Cookies | Greedy | Easy |https://leetcode.com/problems/assign-cookies/|
-| 80 | 22-09-2026| Lemonade Change | Greedy | Easy |https://leetcode.com/problems/lemonade-change/|
+| 79 | 23-09-2026| Assign Cookies | Greedy | Easy |https://leetcode.com/problems/assign-cookies/|
+| 80 | 24-09-2026| Lemonade Change | Greedy | Easy |https://leetcode.com/problems/lemonade-change/|
+| 81 | 25-09-2026| Jump Game | Greedy | Medium |https://leetcode.com/problems/jump-game/|
 ---
 
 ## Structure
