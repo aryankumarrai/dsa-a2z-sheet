@@ -20,14 +20,14 @@ Solving [Striver's A2Z DSA Sheet](https://takeuforward.org/dsa/strivers-a2z-shee
 | Stack & Queue | 1 | 30 |
 | Sliding Window & Two Pointer | 5 | 11 |
 | Heaps | 0 | - |
-| Greedy | 3 | 14 |
+| Greedy | 4 | 14 |
 | Trees | 0 | - |
 | Binary Search Trees | 0 | - |
 | Graphs | 0 | - |
 | Dynamic Programming | 0 | - |
 | Tries | 0 | - |
 
-**Total solved: 79**
+**Total solved: 80**
 
 ---
 
@@ -116,6 +116,7 @@ Solving [Striver's A2Z DSA Sheet](https://takeuforward.org/dsa/strivers-a2z-shee
 | 79 | 23-09-2026| Assign Cookies | Greedy | Easy |https://leetcode.com/problems/assign-cookies/|
 | 80 | 24-09-2026| Lemonade Change | Greedy | Easy |https://leetcode.com/problems/lemonade-change/|
 | 81 | 25-09-2026| Jump Game | Greedy | Medium |https://leetcode.com/problems/jump-game/|
+| 82 | 26-09-2026| Non-overlapping Intervals | Greedy | Medium |https://leetcode.com/problems/non-overlapping-intervals/|
 ---
 
 ## Structure
