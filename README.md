@@ -20,14 +20,14 @@ Solving [Striver's A2Z DSA Sheet](https://takeuforward.org/dsa/strivers-a2z-shee
 | Stack & Queue | 1 | 30 |
 | Sliding Window & Two Pointer | 5 | 11 |
 | Heaps | 0 | - |
-| Greedy | 9 | 14 |
+| Greedy | 10 | 14 |
 | Trees | 0 | - |
 | Binary Search Trees | 0 | - |
 | Graphs | 0 | - |
 | Dynamic Programming | 0 | - |
 | Tries | 0 | - |
 
-**Total solved: 85**
+**Total solved: 86**
 
 ---
 
@@ -122,6 +122,7 @@ Solving [Striver's A2Z DSA Sheet](https://takeuforward.org/dsa/strivers-a2z-shee
 | 85 | 29-09-2026| Valid Parenthesis String | Greedy | Medium |https://leetcode.com/problems/valid-parenthesis-string/|
 | 86 | 30-09-2026| Candy | Greedy | Hard |https://leetcode.com/problems/candy/|
 | 87 | 01-10-2026| Jump Game II | Greedy | Medium |https://leetcode.com/problems/jump-game-ii/|
+| 88 | 02-10-2026| Divide Intervals Into Minimum Number of Groups | Greedy | Medium |https://leetcode.com/problems/divide-intervals-into-minimum-number-of-groups/|
 ---
 
 ## Structure
