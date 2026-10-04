@@ -18,7 +18,7 @@ Solving [Striver's A2Z DSA Sheet](https://takeuforward.org/dsa/strivers-a2z-shee
 | Recursion & Backtracking | 1 | 25 |
 | Bit Manipulation | 5 | 18 |
 | Stack & Queue | 1 | 30 |
-| Sliding Window & Two Pointer | 5 | 11 |
+| Sliding Window & Two Pointer | 6 | 11 |
 | Heaps | 0 | - |
 | Greedy | 10 | 14 |
 | Trees | 0 | - |
@@ -27,7 +27,7 @@ Solving [Striver's A2Z DSA Sheet](https://takeuforward.org/dsa/strivers-a2z-shee
 | Dynamic Programming | 0 | - |
 | Tries | 0 | - |
 
-**Total solved: 87**
+**Total solved: 88**
 
 ---
 
@@ -124,6 +124,7 @@ Solving [Striver's A2Z DSA Sheet](https://takeuforward.org/dsa/strivers-a2z-shee
 | 87 | 01-10-2026| Jump Game II | Greedy | Medium |https://leetcode.com/problems/jump-game-ii/|
 | 88 | 02-10-2026| Divide Intervals Into Minimum Number of Groups | Greedy | Medium |https://leetcode.com/problems/divide-intervals-into-minimum-number-of-groups/|
 | 89 | 03-10-2026| Number of 1 Bits | Bit-Manipulation | Easy |https://leetcode.com/problems/number-of-1-bits/|
+| 90 | 04-10-2026| Longest Substring Without Repeating Characters | Sliding Window | Medium |https://leetcode.com/problems/longest-substring-without-repeating-characters/|
 ---
 
 ## Structure
