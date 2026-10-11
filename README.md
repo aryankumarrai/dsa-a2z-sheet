@@ -11,7 +11,7 @@ Solving [Striver's A2Z DSA Sheet](https://takeuforward.org/dsa/strivers-a2z-shee
 
 | Topic | Solved | Total (approx.) |
 |---|---|---|
-| Arrays | 25 | 40 |
+| Arrays | 26 | 40 |
 | Binary Search | 19 | 32 |
 | Strings | 13 | 14 |
 | Linked List | 10 | 31 |
@@ -27,7 +27,7 @@ Solving [Striver's A2Z DSA Sheet](https://takeuforward.org/dsa/strivers-a2z-shee
 | Dynamic Programming | 0 | - |
 | Tries | 0 | - |
 
-**Total solved: 94**
+**Total solved: 95**
 
 ---
 
@@ -131,6 +131,7 @@ Solving [Striver's A2Z DSA Sheet](https://takeuforward.org/dsa/strivers-a2z-shee
 | 94 | 08-10-2026| Subarrays with K Different Integers | Sliding-Window | Hard |https://leetcode.com/problems/subarrays-with-k-different-integers/|
 | 95 | 09-10-2026| Pascal's Triangle II | Array | Easy |https://leetcode.com/problems/pascals-triangle-ii/|
 | 96 | 10-10-2026| 3 Sum | Array | Medium |https://leetcode.com/problems/3sum/|
+| 97 | 11-10-2026| 4 Sum | Array | Medium |https://leetcode.com/problems/4sum/|
 ---
 
 ## Structure
