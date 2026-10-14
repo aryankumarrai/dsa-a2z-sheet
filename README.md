@@ -11,7 +11,7 @@ Solving [Striver's A2Z DSA Sheet](https://takeuforward.org/dsa/strivers-a2z-shee
 
 | Topic | Solved | Total (approx.) |
 |---|---|---|
-| Arrays | 27 | 40 |
+| Arrays | 29 | 40 |
 | Binary Search | 19 | 32 |
 | Strings | 13 | 14 |
 | Linked List | 10 | 31 |
@@ -27,7 +27,7 @@ Solving [Striver's A2Z DSA Sheet](https://takeuforward.org/dsa/strivers-a2z-shee
 | Dynamic Programming | 0 | - |
 | Tries | 0 | - |
 
-**Total solved: 96**
+**Total solved: 98**
 
 ---
 
@@ -133,6 +133,7 @@ Solving [Striver's A2Z DSA Sheet](https://takeuforward.org/dsa/strivers-a2z-shee
 | 96 | 10-10-2026| 3 Sum | Array | Medium |https://leetcode.com/problems/3sum/|
 | 97 | 11-10-2026| 4 Sum | Array | Medium |https://leetcode.com/problems/4sum/|
 | 98 | 12-10-2026| Majority Element II | Array | Medium |https://leetcode.com/problems/majority-element-ii/|
+| 99 | 13-10-2026| Maximum Product Subarray | Array | Medium |https://leetcode.com/problems/maximum-product-subarray/|
 ---
 
 ## Structure
