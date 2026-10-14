@@ -11,7 +11,7 @@ Solving [Striver's A2Z DSA Sheet](https://takeuforward.org/dsa/strivers-a2z-shee
 
 | Topic | Solved | Total (approx.) |
 |---|---|---|
-| Arrays | 29 | 40 |
+| Arrays | 28 | 40 |
 | Binary Search | 19 | 32 |
 | Strings | 13 | 14 |
 | Linked List | 10 | 31 |
@@ -24,7 +24,7 @@ Solving [Striver's A2Z DSA Sheet](https://takeuforward.org/dsa/strivers-a2z-shee
 | Trees | 0 | - |
 | Binary Search Trees | 0 | - |
 | Graphs | 0 | - |
-| Dynamic Programming | 0 | - |
+| Dynamic Programming | 1 | 53 |
 | Tries | 0 | - |
 
 **Total solved: 98**
@@ -134,6 +134,7 @@ Solving [Striver's A2Z DSA Sheet](https://takeuforward.org/dsa/strivers-a2z-shee
 | 97 | 11-10-2026| 4 Sum | Array | Medium |https://leetcode.com/problems/4sum/|
 | 98 | 12-10-2026| Majority Element II | Array | Medium |https://leetcode.com/problems/majority-element-ii/|
 | 99 | 13-10-2026| Maximum Product Subarray | Array | Medium |https://leetcode.com/problems/maximum-product-subarray/|
+| 100 | 14-10-2026| Climbing Stairs | Dynamic-Programming | Easy |https://leetcode.com/problems/climbing-stairs/|
 ---
 
 ## Structure
