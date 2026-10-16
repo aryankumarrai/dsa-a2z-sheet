@@ -24,10 +24,10 @@ Solving [Striver's A2Z DSA Sheet](https://takeuforward.org/dsa/strivers-a2z-shee
 | Trees | 0 | - |
 | Binary Search Trees | 0 | - |
 | Graphs | 0 | - |
-| Dynamic Programming | 1 | 53 |
+| Dynamic Programming | 2 | 53 |
 | Tries | 0 | - |
 
-**Total solved: 98**
+**Total solved: 99**
 
 ---
 
@@ -135,6 +135,7 @@ Solving [Striver's A2Z DSA Sheet](https://takeuforward.org/dsa/strivers-a2z-shee
 | 98 | 12-10-2026| Majority Element II | Array | Medium |https://leetcode.com/problems/majority-element-ii/|
 | 99 | 13-10-2026| Maximum Product Subarray | Array | Medium |https://leetcode.com/problems/maximum-product-subarray/|
 | 100 | 14-10-2026| Climbing Stairs | Dynamic-Programming | Easy |https://leetcode.com/problems/climbing-stairs/|
+| 101 | 15-10-2026| House Robber | Dynamic-Programming | Medium |https://leetcode.com/problems/house-robber/|
 ---
 
 ## Structure
