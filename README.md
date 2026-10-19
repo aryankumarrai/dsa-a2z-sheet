@@ -24,10 +24,10 @@ Solving [Striver's A2Z DSA Sheet](https://takeuforward.org/dsa/strivers-a2z-shee
 | Trees | 0 | - |
 | Binary Search Trees | 0 | - |
 | Graphs | 0 | - |
-| Dynamic Programming | 4 | 53 |
+| Dynamic Programming | 5 | 53 |
 | Tries | 0 | - |
 
-**Total solved: 101**
+**Total solved: 102**
 
 ---
 
@@ -138,6 +138,7 @@ Solving [Striver's A2Z DSA Sheet](https://takeuforward.org/dsa/strivers-a2z-shee
 | 101 | 15-10-2026| House Robber | Dynamic-Programming | Medium |https://leetcode.com/problems/house-robber/|
 | 102 | 16-10-2026| House Robber II | Dynamic-Programming | Medium |https://leetcode.com/problems/house-robber-ii/|
 | 103 | 17-10-2026| Unique Paths | Dynamic-Programming | Medium |https://leetcode.com/problems/unique-paths/|
+| 104 | 18-10-2026| Unique Paths II | Dynamic-Programming | Medium |https://leetcode.com/problems/unique-paths-ii/|
 ---
 
 ## Structure
