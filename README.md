@@ -140,6 +140,7 @@ Solving [Striver's A2Z DSA Sheet](https://takeuforward.org/dsa/strivers-a2z-shee
 | 103 | 17-10-2026| Unique Paths | Dynamic-Programming | Medium |https://leetcode.com/problems/unique-paths/|
 | 104 | 18-10-2026| Unique Paths II | Dynamic-Programming | Medium |https://leetcode.com/problems/unique-paths-ii/|
 | 105 | 19-10-2026| Minimum Falling Path Sum | Dynamic-Programming | Medium |https://leetcode.com/problems/minimum-falling-path-sum/|
+| 106 | 20-10-2026| Triangle | Dynamic-Programming | Medium |https://leetcode.com/problems/triangle/|
 ---
 
 ## Structure
